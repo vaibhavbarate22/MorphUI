@@ -16,4 +16,4 @@ I'm building full-stack Python applications with LLM features, and I'm looking f
 ## Contact
 
 - LinkedIn: [linkedin.com/in/vaibhavbarate22](https://www.linkedin.com/in/vaibhavbarate22)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: (vaibhavbarate7@gmail.com)
