@@ -11,13 +11,7 @@ I'm building full-stack Python applications with LLM features, and I'm looking f
 
 ## Skills
 
-**Working knowledge:** Python, FastAPI, HTML, RAG
-
-**Learning right now:** PostgreSQL, SQLAlchemy, JWT auth, Docker, React, pytest
-
-## Open to
-
-Entry-level roles starting 2027 (Python Developer, Backend Python, Full Stack Python, GenAI application developer). Based in Pune.
+**Working knowledge:** Python, FastAPI, HTML, RAG, PostgreSQL, SQLAlchemy, JWT auth, Docker, React, pytest
 
 ## Contact
 
